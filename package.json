@@ -1,0 +1,24 @@
+{
+	"name": "tw-scrollbar",
+	"version": "2.0.0",
+	"description": "Plugin for tailwind to customize your scrollbars.",
+	"main": "tw-scrollbar.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/br14nn/tw-scrollbar.git"
+	},
+	"keywords": [
+		"scrollbar",
+		"tailwindcss",
+		"plugin"
+	],
+	"author": "Brian Vitualla",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/br14nn/tw-scrollbar/issues"
+	},
+	"homepage": "https://github.com/br14nn/tw-scrollbar#readme"
+}
