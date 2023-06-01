@@ -2,10 +2,11 @@
 This is a plugin for tailwind to customize your scrollbars thru classnames.
 
 ## Installation
-```
-npm i tailwindcss-scrollbar
-```
+1.
+    ```
+    npm i tailwindcss-scrollbar
+    ```
+2. Locate a file in your project named `tailwind.config.js`
+3. 
 
-## How to use
-1. Locate a file in your project named "tailwind.config.js"
-2. In the ```plugins: [require("tailwindcss-scrollbar")]```
+
