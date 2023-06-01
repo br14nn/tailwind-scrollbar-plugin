@@ -1,8 +1,8 @@
 {
-	"name": "tw-scrollbar",
-	"version": "2.0.0",
+	"name": "tailwind-scrollbar-plugin",
+	"version": "1.0.0",
 	"description": "Plugin for tailwind to customize your scrollbars.",
-	"main": "tw-scrollbar.ts",
+	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
